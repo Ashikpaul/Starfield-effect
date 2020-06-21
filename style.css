@@ -1,0 +1,4 @@
+body {margin: 0;}
+canvas {
+  background: radial-gradient(ellipse at center, #242938, #000 100%);
+}
